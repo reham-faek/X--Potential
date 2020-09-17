@@ -45,7 +45,7 @@
     font-size: 15px;
     color:  var(--graycolor);
     transition: color 0.5s;
-    line-height: 1.7;
+    line-height: 1.5;
 }
 .team-item:hover .team-overlay{
     opacity: 1;
